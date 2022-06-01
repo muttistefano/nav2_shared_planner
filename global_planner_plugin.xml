@@ -1,0 +1,5 @@
+<library path="nav2_shared_planner">
+	<class name="nav2_shared_planner/SharedPlanner" type="nav2_shared_planner::SharedPlanner" base_class_type="nav2_core::GlobalPlanner">
+	  <description></description>
+	</class>
+</library>
